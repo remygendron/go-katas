@@ -1,0 +1,2 @@
+# go-katas
+Learning go.
